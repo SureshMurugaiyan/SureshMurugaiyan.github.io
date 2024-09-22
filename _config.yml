@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Suresh Murugaiyan"
-  pronouns         : "he/him"  
+  pronouns         : "(he/him)"  
   bio              : "Postdoctoral Research Associate | Ph.D. in Aerospace Engineering"
   location         : "Ames,Iowa"
   employer         : "TrAC-Translational AI Center"
   uri              : "https://www.linkedin.com/in/suresh-murugaiyan-phd/"
-  email            : "" 
+  email            : #
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
